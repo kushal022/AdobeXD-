@@ -1,7 +1,7 @@
 {
-  "homepage": "https://kushal022.github.io/AdobeXD-/",
+  "homepage": "https://kushal022.github.io/AdobeXD-",
   "name": "adobe",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
